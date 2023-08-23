@@ -1,0 +1,984 @@
+{
+    "Entries" : [
+      {
+        "RelativePath" : "DiceRollerClient.exe",
+        "Size" : 653824,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "h/DYlnZNOwr7M1B1AMT6y8s2/ek",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "UnityCrashHandler64.exe",
+        "Size" : 1123928,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "u6Zg6whcV0HybAzVMAwWVJlsRJE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "UnityPlayer.dll",
+        "Size" : 28820568,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "PS50KbFOK6capQHGEGpt/E6vLGQ",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/app.info",
+        "Size" : 33,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "6lb/wmUjnlPNeWrRkzxsBtiI3B0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/boot.config",
+        "Size" : 120,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "dIjWYgttvYQ0xR136cWlV8fE8nA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/globalgamemanagers",
+        "Size" : 87464,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "SuTYDtJJmsbrQksK2kYGiaLwWgo",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/globalgamemanagers.assets",
+        "Size" : 196560,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "4yZrKDH/cml4R46Rc1k19kwYFhg",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/level0",
+        "Size" : 18688,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "/kOfNjrZIrwZdE1B6WQsAYtTlSc",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/level0.resS",
+        "Size" : 131232,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "JegE4nD0KoYMs1EG6R1IOO6vpOs",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/level1",
+        "Size" : 136120,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "ZUFup5ITYz4t3EqKlTWjDi7C8fE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/level1.resS",
+        "Size" : 131232,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "JegE4nD0KoYMs1EG6R1IOO6vpOs",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/resources.assets",
+        "Size" : 474192,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "09QJEUHPrQ1I0l+L7exFTgYDNlQ",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/resources.assets.resS",
+        "Size" : 14833864,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "RGAcrNdi1lpNO706rbfFxyOMm2M",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/RuntimeInitializeOnLoads.json",
+        "Size" : 218,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "/Z7GequVt5K7PQOGaFvgaJLhifo",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/ScriptingAssemblies.json",
+        "Size" : 2834,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "mYt6gL8E+T1m7CzMZKgdIinJk60",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/sharedassets0.assets",
+        "Size" : 16356,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "V2+3P0GNNs39waQLZyipjaKLi+U",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/sharedassets0.assets.resS",
+        "Size" : 219184,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "tijayZrzAc0nc8h9OfdSMArY96k",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/sharedassets1.assets",
+        "Size" : 51912,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "c7QWtXXWtj9RNS/TbaoEriKIPbI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/sharedassets1.assets.resS",
+        "Size" : 16659528,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "s8H7VBkUgHKCMDOdSMH6a3El774",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/Assembly-CSharp.dll",
+        "Size" : 180224,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "lqbzlZvJdCzwBWtmg748Rn5lX3A",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/ICSharpCode.SharpZipLib.dll",
+        "Size" : 204288,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "7GVBbE2JIpLh8SMo1Nx3v/i9aIo",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/Mono.Security.dll",
+        "Size" : 241152,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "Kn6gYKHLUTDhraYxiKtpBeaMrBY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/mscorlib.dll",
+        "Size" : 4630528,
+        "LastWriting" : "2022-09-20 22:12:33Z",
+        "Hash" : "0MEmTcNdID6FEYUMG2ahwZTvXYE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/netstandard.dll",
+        "Size" : 90112,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "wttuc3aXfFx/F9gWQGynD5XY4e8",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/RiptideNetworking.dll",
+        "Size" : 80384,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "wYf2e7gfiNbCOWOvsq4ht8vX3jo",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.ComponentModel.Composition.dll",
+        "Size" : 257024,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "iTw5n+IlqgqVDgw/+bOo1cRguG8",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.Configuration.dll",
+        "Size" : 124928,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "1jgnslKqe0LS7CdZL5Tbc5gBKRI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.Core.dll",
+        "Size" : 1113088,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "SuG/MaEy0+Tq8MPL30Tzw8k3GlY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.Data.DataSetExtensions.dll",
+        "Size" : 29696,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "GNRyDwL9SfsMoo1CkbEFNkWo0fE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.Data.dll",
+        "Size" : 2118656,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "aElThCsQCbp3Szn/uF4JOIRreos",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.dll",
+        "Size" : 2637312,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "BYjR8u6hEFzLEPFSlj69yrx/lJE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.Drawing.dll",
+        "Size" : 489984,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "gvan32GcsHLI4CBLyVs2F6oNoMI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.EnterpriseServices.dll",
+        "Size" : 44544,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "W3NVASkPcXiwdWin+iOKd7yza8s",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.IO.Compression.dll",
+        "Size" : 114688,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "0q5anMuEDRjRoxIzR5jBK0nbTqM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.IO.Compression.FileSystem.dll",
+        "Size" : 18432,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "ZbCDA5Fb8eJzgwIW62tl3ooC59I",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.Net.Http.dll",
+        "Size" : 121344,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "fB8IOetCVyz6E/OLnlrcq0Q7xFk",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.Numerics.dll",
+        "Size" : 119296,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "2qnf8rbDXbRQ/Iko6xXMDSU4Zgo",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.Runtime.Serialization.dll",
+        "Size" : 934400,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "J1tOM8EO76Rgu8NT+AU3cxwYsbY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.Security.dll",
+        "Size" : 314880,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "3g/L9Bl+VFjkmOZGUnSMYHaUfd8",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.ServiceModel.Internals.dll",
+        "Size" : 215040,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "cOmccyFBp8UrSnRcK1EHdWyiaOU",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.Transactions.dll",
+        "Size" : 35328,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "AHLWzeJNZRpLz7TvqU5YP7P09xs",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.Xml.dll",
+        "Size" : 3160064,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "uAoylTsYJHqNMWxzEaY9ExHCz8U",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/System.Xml.Linq.dll",
+        "Size" : 136704,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "LA/sfwiowzowne7zq5MZeNewtLQ",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/Unity.TextMeshPro.dll",
+        "Size" : 370688,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "Qt877R+IuqttnU/pN8X8bAJbe3o",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/Unity.Timeline.dll",
+        "Size" : 115712,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "oCTJh1c98898gkENCokam9trl5E",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "Size" : 86016,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "cAegsbB3SlenkMF+DyfqCn9IQ/k",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/Unity.VisualScripting.Core.dll",
+        "Size" : 541184,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "zRKbBPXTP4WHN4DxmBpw/1JoEcU",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/Unity.VisualScripting.Flow.dll",
+        "Size" : 327680,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "97QpxQb37p/EI74BwMTExDPuEDc",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/Unity.VisualScripting.State.dll",
+        "Size" : 27136,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "cETFOfBDUfFCNDT+vhISHy9O5jY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.AccessibilityModule.dll",
+        "Size" : 20568,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "+Eb95Vm66bn4p150KBGxsGxDxD0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.AIModule.dll",
+        "Size" : 53336,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "N5caNSWS/OkwCPjWNLytd2V7oUI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "Size" : 76376,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "fG5P1KccoN4z2iN8dMPLVHEbOa0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.AnimationModule.dll",
+        "Size" : 158296,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "fhIqetZOWaAhmAkOYrqEsbFnCVA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.ARModule.dll",
+        "Size" : 18520,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "rWqnyhWeU9v9r5H2fjKUeHEVQ1E",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.AssetBundleModule.dll",
+        "Size" : 30808,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "W9ri89/UtndMhLUyVhKvu4Lw9S0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.AudioModule.dll",
+        "Size" : 67160,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "YK5GUmTEp6V0dHdmFZ8sGTP01M4",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.ClothModule.dll",
+        "Size" : 23128,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "zXjfjk6e0SfGzEqnB6IuM5Hg0yM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.ClusterInputModule.dll",
+        "Size" : 18520,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "/f3/wiX8qHxnIWZ0tlE16ExOBcc",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+        "Size" : 19544,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "NxZ+182EcSiv9zJ351mIPbF2+ic",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.CoreModule.dll",
+        "Size" : 1261144,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "rw2773lEvcC7tmgo5eyO7G3EhW4",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.CrashReportingModule.dll",
+        "Size" : 18008,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "BZjbhFYB0T0fFFUfb7eeUJ2rPmk",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.DirectorModule.dll",
+        "Size" : 22104,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "xftRJ4tcKMNroC0tQfqyjRBUwbw",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.dll",
+        "Size" : 108120,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "zhKxLJdtIc/gUEtD8FtmroaEHfE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.DSPGraphModule.dll",
+        "Size" : 26200,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "kmL8kavRHMmRYXcKIUiaLYjcTYo",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.GameCenterModule.dll",
+        "Size" : 36952,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "/Hraj0bZ3JZG4EEZ9lh50kF/aNE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.GIModule.dll",
+        "Size" : 16984,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "GiTC9QGBVWJYQC8vCwBQRQlvr2g",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.GridModule.dll",
+        "Size" : 22104,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "+weW6SbB7oqbw6R/AaUTBjWezGY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.HotReloadModule.dll",
+        "Size" : 16984,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "ldEoSDmtu8NN5bF0o9Argknqnf4",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.ImageConversionModule.dll",
+        "Size" : 21592,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "miCNKHDGfxNHwjuTqFF4xGlObYY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.IMGUIModule.dll",
+        "Size" : 170584,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "bCRRmK+/Vcp5XzROMS6FaNbo6tM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "Size" : 34392,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "aUwKQWTGEo2qCNlbF6qMHygRJ9Q",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.InputModule.dll",
+        "Size" : 20568,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "jSm5ZUjS+p4KEfm7blgGnU3Hl2o",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+        "Size" : 19032,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "80ItWL9brdHScJH0gWAUKR279ag",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.LocalizationModule.dll",
+        "Size" : 18520,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "2cxBTyBQ0MKofRAsU0dxmmFsggM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.NVIDIAModule.dll",
+        "Size" : 30808,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "UG6RmKNu3bGm37xjaXI4z0Nz/6I",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "Size" : 151640,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "aFRPG/T4WQ0zHteAQOEN4MXNWvY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+        "Size" : 18008,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "xI7h6sqfZDWGTSOH5glSjYi2Dm0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.Physics2DModule.dll",
+        "Size" : 131160,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "HSOTF8Y0tMYrH9fHKQBSMfOOo6M",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.PhysicsModule.dll",
+        "Size" : 112216,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "kJN1WyijlbSq8DNR4xyvJXkaOT0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.ProfilerModule.dll",
+        "Size" : 16984,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "ARzteGfS7HSp16rifu2W9T2eJMM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+        "Size" : 17496,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "3WbwYjFW6ItQThnF0tCkqzez0zg",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+        "Size" : 18008,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "j2RyH8z2CDpG1e3JCDs6h1KjrRA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "Size" : 29272,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "DGomZtHkG9kzw2JlO4Rh8Xz8G5s",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+        "Size" : 18520,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "F/gQ1YDWjLxc+DFcLWV58NWpqsc",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "Size" : 22616,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "R9PA7Z3fFVSYWa9cCfB1ib2rL7o",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.StreamingModule.dll",
+        "Size" : 18008,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "FD05Qocm5E7XWTd6Q2ho+06kpBk",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.SubstanceModule.dll",
+        "Size" : 22104,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "M5kFixIsbl0ZYhwH90nbUOFGPw0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "Size" : 31832,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "R3PfMSK4URrD3UPFUXsnvyQILws",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.TerrainModule.dll",
+        "Size" : 95832,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "ZADHXxg7xOQJqShFkSkCvd+/B0o",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+        "Size" : 18008,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "aUnrZp0x5CFcVG8N6Djj2/8yCLA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+        "Size" : 48728,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "aN/RzXbJUx4ktQHjUiBQ8U+JIUA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+        "Size" : 192088,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "XU7RuHeGDOfX28uhqgnchNGDUSE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "Size" : 35928,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "v/lPSb7RMy77TWD/0lqp/QKlbF4",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.TilemapModule.dll",
+        "Size" : 40024,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "Z70pBgyrKP5x/0crKvSNYlJY7tE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.TLSModule.dll",
+        "Size" : 23640,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "CWOvJgT80BGpjIj1pSOb39pFsOI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.UI.dll",
+        "Size" : 244736,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "NslO7F9Dfqh+DkAyref2A6jXZLk",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.UIElementsModule.dll",
+        "Size" : 1195608,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "eRxNEWGbKwP5+892UgQRqvLMjl0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+        "Size" : 55896,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "N+/Wj0vwvQCcJcM3ywORgCCGv1U",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.UIModule.dll",
+        "Size" : 33368,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "bKQV3HgtIiURFsh8PrUOI6PqRDM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.UmbraModule.dll",
+        "Size" : 16984,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "eLzL3HUxU+2U7jyu9w0I9TJXHNw",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.UNETModule.dll",
+        "Size" : 86616,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "xFcJtkNIaL7gtwb6SHrBCuWYdr0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "Size" : 41560,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "J0NNn+r09prsrL4q3irRNe5JYes",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.UnityConnectModule.dll",
+        "Size" : 19032,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "0JzJKPh7XSjIgSIQAxsnRPzb+hw",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.UnityCurlModule.dll",
+        "Size" : 19032,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "BBYyHDC28R3jeqct8wVuS9NiznU",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+        "Size" : 16984,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "XfYt2V6+exKAWzw9APnNDdkoXUw",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+        "Size" : 20056,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "pJHvpB0iNQhdNFGQp2qO5IcaAK8",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+        "Size" : 20056,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "w9oAvmwi+qKUeWmdycgcDXSrstE",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "Size" : 53848,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "EJmlzM0afEuISkPsNrM/bva8FnM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+        "Size" : 19032,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "LV5Ik/261NddeOi2clvHRABtOWg",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+        "Size" : 28760,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "eSqkpqFDmGy5P+IG7Tr0EH+Npso",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.VehiclesModule.dll",
+        "Size" : 21080,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "f3g3Ya5sf0EK+ATd9ivVHlQdyi8",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.VFXModule.dll",
+        "Size" : 51288,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "GULOvnnY1HEI4+3o+15N1c5F1CM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.VideoModule.dll",
+        "Size" : 37464,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "0Kgek2h3oXutNi4DhYWiO8OrYSw",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+        "Size" : 31832,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "oCsta/M+Sm3+XpEE55SjjMaobyI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.VRModule.dll",
+        "Size" : 23640,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "nmVV8d2MOQx8YNIZtzFjO+vq0Rg",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.WindModule.dll",
+        "Size" : 18008,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "JjtNJsZisIxgrUYAEi3sSzW/PvA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Managed/UnityEngine.XRModule.dll",
+        "Size" : 67160,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "Hddspv2GtP8loV0BxXa5oSLjjDA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Resources/unity default resources",
+        "Size" : 4843648,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "tT/mxYGbeb4v8YJye/RYq2EA+LY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "DiceRollerClient_Data/Resources/unity_builtin_extra",
+        "Size" : 391768,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "yqqOMoNATW3gaLXBHIJfvR0rOtk",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+        "Size" : 7680088,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "Kyh/nMyy5o91TXjz5PxnnAaIIL0",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+        "Size" : 608344,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "jRbCg1RQ95xoAOfIRG7tcUsGMGg",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/browscap.ini",
+        "Size" : 311984,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "LVRU4WHeiltlkQ8nvXDZ0K2PpHY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/config",
+        "Size" : 3578,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "4CpxjY5u+3S9i79woda8ZEBV858",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+        "Size" : 60575,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "s+S1CKqzzyAcBoknE7Q92wxDt64",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/machine.config",
+        "Size" : 29066,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "P7zseGrEtugbbS8qsojPZ91nYPQ",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/settings.map",
+        "Size" : 2622,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "3Svi28zTRzZxkwGu6SQp1CWOpaA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/web.config",
+        "Size" : 11635,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "V05LJAFYUtRayA386K88b9Sk8Jo",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+        "Size" : 60575,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "s+S1CKqzzyAcBoknE7Q92wxDt64",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/machine.config",
+        "Size" : 33598,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "epvKYeavmtcg2h19JBkmN9kDeIY",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/settings.map",
+        "Size" : 2622,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "jhfirsQjqOb7Q+jL5iFQQCF7uKM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/web.config",
+        "Size" : 18802,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "dxZI+tx+2aQitLwm442FTQZnQtc",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+        "Size" : 60575,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "s+S1CKqzzyAcBoknE7Q92wxDt64",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/machine.config",
+        "Size" : 34056,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "OS5a5rPa1ZQYvaiQlS7ieospDpA",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/settings.map",
+        "Size" : 2622,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "jhfirsQjqOb7Q+jL5iFQQCF7uKM",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/web.config",
+        "Size" : 18811,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "VsTEdQFmS8O81UvlBcw9n30HYfU",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/mconfig/config.xml",
+        "Size" : 25817,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "k2Ug1btcAKGYXXpMTw73Y6kDGGI",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+        "Size" : 1605,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "GH3/UW+USOY+pQeBkLM0eSLEs+s",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+        "Size" : 1605,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "GH3/UW+USOY+pQeBkLM0eSLEs+s",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+        "Size" : 1605,
+        "LastWriting" : "2022-09-20 22:12:32Z",
+        "Hash" : "GH3/UW+USOY+pQeBkLM0eSLEs+s",
+        "Attributes" : 32
+      },
+      {
+        "RelativePath" : "version.data",
+        "Size" : 24,
+        "LastWriting" : "2022-09-20 22:15:48Z",
+        "Hash" : "9FqdPckhNfnJaFBj2Rgaiusd2pU",
+        "Attributes" : 32
+      }
+    ]
+  }

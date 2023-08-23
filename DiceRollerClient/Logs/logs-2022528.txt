@@ -1,0 +1,2 @@
+===> [Launcher updating] process STARTED! <===
+[Launcher updating] process FAILED! Our servers are not responding... Wait some minutes and retry!
